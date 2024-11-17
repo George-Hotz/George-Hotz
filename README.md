@@ -1,7 +1,7 @@
 <br/>
 <div align="center" >
 
-# 👋 𝗛𝗲𝗹𝗹𝗼！
+# 👋 𝗛𝗲𝗹𝗹𝗼！ ![](https://img.shields.io/badge/George_Hotz-%E6%A8%82-brightgreen) 
 
 <img src="./assets/08.gif" width="70" height="70"> 
 
