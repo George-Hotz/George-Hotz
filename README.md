@@ -3,7 +3,7 @@
 
 # 👋 𝗛𝗲𝗹𝗹𝗼！
 
-<img src="./assets/04.gif" width="70" height="70"> 
+<img src="./assets/08.gif" width="70" height="70"> 
 
 <img order-radius="100" src="./assets/github-contribution-grid-snake.svg"/>
 </div>
