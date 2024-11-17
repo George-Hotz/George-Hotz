@@ -1,7 +1,7 @@
 <br/>
 <div align="center" >
 
-# 👋 𝗛𝗲𝗹𝗹𝗼！ ![](https://img.shields.io/badge/George_Hotz-%E6%A8%82-brightgreen) 
+# 👋 𝗛𝗲𝗹𝗹𝗼！
 
 <img src="./assets/08.gif" width="70" height="70"> 
 
@@ -53,3 +53,7 @@ private:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=George-Hotz&theme=highcontrast)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=George-Hotz&theme=github-compact)
+
+
+![](https://img.shields.io/badge/George_Hotz-%E6%A8%82-brightgreen) 
+
