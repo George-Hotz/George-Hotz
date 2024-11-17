@@ -56,5 +56,3 @@ private:
 
 
 <img src="./assets/11.gif" width="100%">
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%">
