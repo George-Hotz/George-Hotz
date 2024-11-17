@@ -3,9 +3,9 @@
 
 # 👋 𝗛𝗲𝗹𝗹𝗼！
 
-<img src="./src/08.gif" width="70" height="70"> 
+<img src="./assets/08.gif" width="70" height="70"> 
 
-<img order-radius="100" src="./src/github-contribution-grid-snake.svg"/>
+<img order-radius="100" src="./assets/github-contribution-grid-snake.svg"/>
 </div>
 </br>
 
@@ -82,6 +82,6 @@ private:
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
 </div>
 
-<img src="./src/11.gif" width="100%">
+<img src="./assets/11.gif" width="100%">
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%">
