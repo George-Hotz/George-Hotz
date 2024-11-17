@@ -19,7 +19,7 @@ public:
   void Run();
 
 private:
-  const char *name = "樂"
+  const char *username = "樂"
   const char *location = "西安, China"
   const char *mail = "cv2wlw@gmail.com"
   const char *job = "CV软件开发工程师, 小米"
