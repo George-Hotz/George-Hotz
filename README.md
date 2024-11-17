@@ -50,9 +50,9 @@ private:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=George-Hotz&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=George-Hotz&theme=highcontrast)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=George-Hotz&theme=highcontrast)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=George-Hotz&theme=github-compact)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=George-Hotz&theme=github-compact)
 
 
 <div>
