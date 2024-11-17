@@ -54,5 +54,5 @@ private:
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=George-Hotz&theme=github-compact)
 
-
+![](https://img.shields.io/badge/George_Hotz-%E6%A8%82-brightgreen) 
 <img src="./assets/11.gif" width="100%">
