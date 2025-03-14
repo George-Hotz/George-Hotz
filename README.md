@@ -22,7 +22,6 @@ private:
   const char *username = "樂";
   const char *location = "西安, China";
   const char *mail = "cv2wlw@gmail.com";
-  const char *job = "嵌入式软件开发工程师";
 }
 ```
 
