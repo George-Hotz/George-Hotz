@@ -22,7 +22,7 @@ private:
   const char *username = "樂";
   const char *location = "上海, China";
   const char *mail = "cv2wlw@gmail.com";
-  const char *job = "CUDA专家算子开发";
+  const char *job = "算子开发";
 }
 ```
 
